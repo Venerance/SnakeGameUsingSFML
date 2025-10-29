@@ -1,6 +1,6 @@
 # SnakeGameAgain
 
-A little C++ side-project, the classic [snake](https://en.wikipedia.org/wiki/Snake_(video_game_genre)) game. Mostly as an exploration of C++ fundamentals, object oriented design, and working with external libraries. Written in the C++17 standard, using SFML 3.0.0, using Visual Studio. 
+A little C++ project, the classic [snake](https://en.wikipedia.org/wiki/Snake_(video_game_genre)) game. Mostly as an exploration of C++ fundamentals, object oriented design, working with external libraries, and making games. Written in the C++17 standard, using SFML 3.0.0, using Visual Studio. 
 
 Any additional suggestions, feedback and critique regarding the program and the overall design is appreciated.
 
