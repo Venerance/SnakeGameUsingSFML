@@ -1,4 +1,4 @@
-#include <SFML/Graphics.hpp>
+#include <Graphics.hpp>
 #include "Board.hpp"
 
 int main()

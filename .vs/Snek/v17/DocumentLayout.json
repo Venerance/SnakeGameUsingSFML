@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\saran\\Saransh\\Coding practice\\SnakeGameUsingSFML\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE05D817-B4DB-4903-93EC-7B0F4410F4ED}|SnakeGameAgain.vcxproj|C:\\Users\\saran\\Saransh\\Coding practice\\SnakeGameUsingSFML\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BE05D817-B4DB-4903-93EC-7B0F4410F4ED}|SnakeGameAgain.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE05D817-B4DB-4903-93EC-7B0F4410F4ED}|SnakeGameAgain.vcxproj|C:\\Users\\saran\\Saransh\\Coding practice\\SnakeGameUsingSFML\\Snake.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BE05D817-B4DB-4903-93EC-7B0F4410F4ED}|SnakeGameAgain.vcxproj|solutionrelative:Snake.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE05D817-B4DB-4903-93EC-7B0F4410F4ED}|SnakeGameAgain.vcxproj|C:\\Users\\saran\\Saransh\\Coding practice\\SnakeGameUsingSFML\\Food.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BE05D817-B4DB-4903-93EC-7B0F4410F4ED}|SnakeGameAgain.vcxproj|solutionrelative:Food.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE05D817-B4DB-4903-93EC-7B0F4410F4ED}|SnakeGameAgain.vcxproj|C:\\Users\\saran\\Saransh\\Coding practice\\SnakeGameUsingSFML\\Board.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BE05D817-B4DB-4903-93EC-7B0F4410F4ED}|SnakeGameAgain.vcxproj|solutionrelative:Board.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Snake.hpp",
+              "DocumentMoniker": "C:\\Users\\saran\\Saransh\\Coding practice\\SnakeGameUsingSFML\\Snake.hpp",
+              "RelativeDocumentMoniker": "Snake.hpp",
+              "ToolTip": "C:\\Users\\saran\\Saransh\\Coding practice\\SnakeGameUsingSFML\\Snake.hpp*",
+              "RelativeToolTip": "Snake.hpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-29T06:55:09.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Food.hpp",
+              "DocumentMoniker": "C:\\Users\\saran\\Saransh\\Coding practice\\SnakeGameUsingSFML\\Food.hpp",
+              "RelativeDocumentMoniker": "Food.hpp",
+              "ToolTip": "C:\\Users\\saran\\Saransh\\Coding practice\\SnakeGameUsingSFML\\Food.hpp*",
+              "RelativeToolTip": "Food.hpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-29T06:55:03.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Board.hpp",
+              "DocumentMoniker": "C:\\Users\\saran\\Saransh\\Coding practice\\SnakeGameUsingSFML\\Board.hpp",
+              "RelativeDocumentMoniker": "Board.hpp",
+              "ToolTip": "C:\\Users\\saran\\Saransh\\Coding practice\\SnakeGameUsingSFML\\Board.hpp*",
+              "RelativeToolTip": "Board.hpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-29T06:54:46.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\saran\\Saransh\\Coding practice\\SnakeGameUsingSFML\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\saran\\Saransh\\Coding practice\\SnakeGameUsingSFML\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-29T06:51:19.624Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
