@@ -2,7 +2,7 @@
 
 A little C++ project, the classic [snake](https://en.wikipedia.org/wiki/Snake_(video_game_genre)) game. Mostly as an exploration of C++ fundamentals, object oriented design, working with external libraries, and making games. Written in the C++17 standard, using SFML 3.0.0, in Visual Studio, for 64-bit Windows systems.
 
-To run the game, download the zip file [here](https://github.com/Venerance/SnakeGameUsingSFML/releases/download/v1.0/SnakeGame.zip), extract it, run Snek.exe and enjoy.
+To run the game, download the zip file [here](https://github.com/Venerance/SnakeGameUsingSFML/releases/download/v1.0/SnakeGame.zip), extract it, run *Snek.exe* and enjoy.
 
 Any additional suggestions, feedback and critique regarding the program and the overall design is appreciated.
 
