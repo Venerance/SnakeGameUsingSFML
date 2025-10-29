@@ -1,0 +1,1 @@
+copy the .dll files in "required_sfml_dlls" and the .ttf font file in "fonts" to the release folder where the final .exe lies
