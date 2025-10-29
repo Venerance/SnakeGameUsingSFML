@@ -33,8 +33,8 @@ Any additional suggestions, feedback and critique regarding the program and the 
 - Using a separate file to store high scores across different play sessions.
 - Inelegant use of the SFML text class in Board.hpp, while it works, it also seems hard to scale up or modify.
 - Better distribution of duties among the header files, I prioritized splitting tasks according to what "feels" right for a class to do. Might have added unnecessary complexity in the process.
-- The game currently is only built for Window x64 systems, could work on allowing it to run on different systems.
-- Polishing the game, more dynamic screen sizing, speed changing over time perhaps.
+- The game currently is only built for Windows x64 systems, could work on allowing it to run on different systems.
+- Polishing the game, more dynamic screen sizing, speed changing over time, random obstacles around the map, and so on.
 
 ***
 
