@@ -5,6 +5,7 @@ A little C++ project, the classic [snake](https://en.wikipedia.org/wiki/Snake_(v
 To build the project yourself, open the `Snek.sln` file in Visual Studio, build the project in "Release", place the .dll files in `assets/required_sfml_dlls` and the .ttf file in `assets/fonts` in the folder where the `Snek.exe` file lies (likely will be in `x64/Release`) and then run it to play the game.
 
 To run the game directly, download the .zip file [here](https://github.com/Venerance/SnakeGameUsingSFML/releases/download/v1.0/SnakeGame.zip), extract it and run `Snek.exe`.
+Note: Windows Defender seems to flag the .exe as a potentially dangerous file, you can verify it is not by checking the source code or building the project in Visual Studio yourself.
 
 Any additional suggestions, feedback and critique regarding the program and the overall design is appreciated.
 
