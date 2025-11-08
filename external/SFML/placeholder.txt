@@ -1,1 +1,0 @@
-manually creating the SFML directory yet again
