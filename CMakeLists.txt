@@ -24,3 +24,9 @@ target_link_libraries(SnakeGame PRIVATE
     SFML::Window
     SFML::Graphics
 )
+
+add_custom_command(TARGET SnakeGame POST_BUILD
+    COMMAND ${CMAKE_COMMAND} -E copy_directory
+            ${CMAKE_SOURCE_DIR}/assets
+            $<TARGET_FILE_DIR:SnakeGame>/assets
+)
