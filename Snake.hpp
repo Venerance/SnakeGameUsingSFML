@@ -109,7 +109,6 @@ public:
 			std::cout << "Immediate direction reversal, input ignored\n";
 			res = false;
 		}
-		std::cout << "Snake moving in direction: " << dir_to_str() << "\n";
 		return res;
 	}
 
